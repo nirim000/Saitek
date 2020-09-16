@@ -34,7 +34,9 @@ products = [
 # Mad Catz
             {'vid': 0x0738, 'pid': 0x1705, 'name': 'R.A.T 5'},  # @np's mouse (fork)
             {'vid': 0x0738, 'pid': 0x1709, 'name': 'R.A.T 9', 'battery': True},  # @improti's mouse (fork)
-            {'vid': 0x0738, 'pid': 0x1718, 'name': 'R.A.T PRO X'}]  # @Angelus's mouse (#8 - not tested)
+            {'vid': 0x0738, 'pid': 0x1718, 'name': 'R.A.T PRO X'},  # @Angelus's mouse (#8 - not tested)
+            {'vid': 0x0738, 'pid': 0x1708, 'name': 'R.A.T.7'}]
+
 
 
 # Code begins here

@@ -24,3 +24,5 @@ SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1705", TAG+="uacce
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1709", TAG+="uaccess"
 # R.A.T PRO X
 SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1718", TAG+="uaccess"
+# old Cyborg R.A.T.7
+SUBSYSTEM=="usb", ATTRS{idVendor}=="0738", ATTRS{idProduct}=="1708", TAG+="uaccess"
